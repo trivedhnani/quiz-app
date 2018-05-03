@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string-array name="questions">
+        <item>What is the nearest star to the earth except sun?</item>
+        <item>D.Sourez is a famous... </item>
+        <item>Europa is a moon of</item>
+        <item>Guess the actor</item>
+        <item>Onepiece is holding a guinness record for selling 400 million copies </item>
+    </string-array>
+    <string-array name="options1">
+        <item>proximas centuries</item>
+        <item>kepler 22b</item>
+        <item>kepler 15b</item>
+        <item>andromeda</item>
+    </string-array>
+    <string-array name="options2">
+        <item>cricketer</item>
+        <item>foot ball player</item>
+        <item> volley ball player</item>
+        <item>golf player</item>
+    </string-array>
+    <string-array name="options3">
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Venus</item>
+        <item>Pluto</item>
+    </string-array>
+    <string-array name="options4">
+        <item>Prabhas</item>
+        <item>Pawan Kayan</item>
+        <item>Mahesh babu</item>
+        <item>Rana</item>
+    </string-array>
+</resources>
